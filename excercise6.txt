@@ -1,0 +1,9 @@
+Write an Algorithm for calculating the area of rectangle and square separately
+STEP1 :START
+STEP2 :Read l,b,a
+STEP3 :calulate 
+	 area of ractangle=l*b;
+	 area of square= a*a;
+STEP4 :print area of ractangle
+	 print area of square
+STEP5 :STOP
