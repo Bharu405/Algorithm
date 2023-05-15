@@ -1,0 +1,12 @@
+Write an Algorithm for Accepting a character and then display whether it is vowel or constant;.
+STEP1 :START
+STEP2 :Read ch from user
+STEP3 :declare variable
+STEP4 :if(ch=='a'||ch=='A'
+	    ch=='e'||ch=='E'
+	    ch=='i'||ch=='I'
+	    ch=='o'||ch=='O'
+	    ch=='u'||ch=='U')
+	STEP4.1 :If true print vowel
+	STEP4.2 :If false print coonstant
+STEP1 :STOP
