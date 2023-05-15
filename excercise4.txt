@@ -1,0 +1,7 @@
+Write an Algorithm for Accepting Five number and display the sum and average of the numbers.
+STEP1 :START
+STEP2 :Accept a,b,c,d,e,SUM,AVG
+STEP3 :SUM = a+b+c+d+e
+	 AVG = SUM/5
+STEP4 :print SUM,AVG
+STEP5 :STOP
