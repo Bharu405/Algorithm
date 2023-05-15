@@ -1,0 +1,7 @@
+Write an Algorithm for Accepting number and display the Whether it is odd or even
+STEP1 :STRAT
+STEP2 :ACCEPT the N
+STEP3 :If N/2==0
+       STEP3.1 :If true print N is even
+	 STEP3.2 :If false print N is odd
+STEP6 :STOP
