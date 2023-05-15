@@ -1,0 +1,9 @@
+Write an Algorithm for Accepting three number and display the highest number among three numbers.
+STEP1 :START
+STEP2 :Read a,b,c
+STEP3 :If a>b is True then,
+   STEP3.1 :check a>c if true ,print a is largest number
+   STEP3.2 :if false,check if b>c then
+   	STEP3.2.1 :If true, print B is largest number
+   	STEP3.2.2 :If false, print c is largest number
+STEP4 :STOP
