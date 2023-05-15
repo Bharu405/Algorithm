@@ -1,0 +1,7 @@
+Write an Algorithm for Accepting two numbers and display the highest of the amoung two numbers.
+STEP1 :START
+STEP2 :Accept n1,n2
+STEP3 :if n1>n2
+	STEP3.1 :If true print n1 is the highest number
+	STEP3.2 :If false print n2 is the highest number
+STEP4 :STOP
