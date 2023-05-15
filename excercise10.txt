@@ -1,0 +1,14 @@
+Write an Algorithm for Accepting the age of the user and if the age is valid,check whethere user is kid,teenager,an adult or as a senior citizen
+STEP1 :START
+STEP2 :Prompt the user to enter their age
+STEP3 :Read the input age as an integer value
+STEP4 :Check if the age is valid by making sure it is a positive integer
+	STEP4.1 :If the age is not valid, display an error message and end the program
+	STEP4.2 :If the age is valid, check the age range to determine the user's age group:
+		STEP4.2.1 :If the age is less than 18, the user is a kid or teenager
+		STEP4.2.2 : If the age is less than 13, the user is a kid
+		STEP4.2.3 : If the age is between 13 and 17, the user is a teenager
+			STEP4.2.3.1 :If the age is between 18 and 59, the user is an adult
+			STEP4.2.3.2 :If the age is 60 or greater, the user is a senior citizen
+				STEP4.2.3.2.1Display the user's age group to the user
+STEP5 :stop
